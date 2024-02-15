@@ -1,2 +1,13 @@
 Google search - search - Microsoft Azure Portal
 select page - Microsoft Azure Portal
+click- free Account
+click- start free
+fill personal info
+fill card details
+
+search "subscription" is search box
+select subscription menu
+click on ADD
+
+select - Azure for students ( if you have working college mail id)
+otherwise select FREE TIER 
