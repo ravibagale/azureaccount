@@ -5,9 +5,11 @@ click- start free
 fill personal info
 fill card details
 
-search "subscription" is search box
+search "subscription" in search box
 select subscription menu
 click on ADD
 
 select - Azure for students ( if you have working college mail id)
-otherwise select FREE TIER 
+otherwise select FREE TIER.
+
+now it should show FREE TIER- ACTIVE
